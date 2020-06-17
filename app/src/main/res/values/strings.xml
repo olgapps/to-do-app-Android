@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="create_new_task">Create new task</string>
+    <string name="content">content</string>
+    <string name="create">Create</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_content">Task content</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="list_preview">list Preview</string>
+    <string name="to_do_list_application">To Do List Application</string>
+    <string name="my_to_do_list">My To Do List</string>
+    <string name="create2">create</string>
+    <string name="title">title</string>
+    <string name="update_the_task">Update the task</string>
+    <string name="update_title">update title</string>
+    <string name="update_content">update Content</string>
+
+</resources>

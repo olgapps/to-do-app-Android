@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Do zrobienia</string>
+    <string name="create_new_task">Stwórz nowe zadanie</string>
+    <string name="content">Treść zadania</string>
+    <string name="create">Stwórz</string>
+    <string name="task_title">Tytuł zadania</string>
+    <string name="task_content">Treść zadania</string>
+    <string name="update">Edytuj</string>
+    <string name="delete">Usuń</string>
+    <string name="list_preview">Lista</string>
+    <string name="to_do_list_application">Aplikacja zadań</string>
+    <string name="my_to_do_list">Moje zadania</string>
+    <string name="create2">stwórz</string>
+    <string name="title">Tytuł</string>
+    <string name="update_the_task">Edytuj zadanie</string>
+    <string name="update_title">Edytuj tytuł</string>
+    <string name="update_content">Edytuj treść</string>
+
+</resources>
